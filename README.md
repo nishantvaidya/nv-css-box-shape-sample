@@ -1,3 +1,4 @@
-# web-platform-eh8o9u
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-eh8o9u)
+## CSS Shape tool and resources.
+### Chrome CSS shape editor plugin.
+### https://bennettfeely.com/clippy/ CLip Path Maker too.
+### https://betravis.github.io/shape-tools/path-to-polygon/
