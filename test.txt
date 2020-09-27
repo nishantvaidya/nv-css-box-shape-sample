@@ -1,0 +1,10 @@
+CSS has evolved from using a table  ->  position  -> float property for creating 2 , 3 or multiple columns layout. Now, Layout design became  much similar and easy  with CSS Flexbox, Grid and Shape specification. Moreover,  I'm hugely impressed by shape specification for a easy design of any dimensional shape. I believe this will give more power to web for magazine like page layout so no more rectangular box only in web pages for content. Below are few resources, I visited over weekend to understand more in detail and found useful #css #cssgrid #cssflexbox  #gridlayout #webdevelopment 
+https://bennettfeely.com/clippy/ CLip Path Maker too.
+https://betravis.github.io/shape-tools/path-to-polygon/
+https://labs.jensimmons.com/
+https://rachelandrew.co.uk/
+https://csslayout.news/
+https://gridbyexample.com/
+https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
+https://philipwalton.github.io/solved-by-flexbox/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
